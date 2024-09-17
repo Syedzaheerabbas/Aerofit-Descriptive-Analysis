@@ -36,6 +36,22 @@ The dataset comprises information on customers who purchased a treadmill from Ae
 4. **Insights & Recommendations**: Based on the analysis, propose strategies for improving product recommendations for new customers.
 
 
+## Colab Notebook
+
+The full analysis is available on Google Colab. [View the Notebook](colab_link.md).
+
+## PDF Report
+
+A detailed analysis report is available in the following PDF file: [View Report](analysis_report.pdf).
+
+
+## Jupyter Notebook
+
+The Python code and analysis are available in the following Jupyter Notebook: [View Notebook](analysis.ipynb).
+
+
+
+
 
 
 
